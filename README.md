@@ -1,3 +1,7 @@
+
+➡[View live site]](https://furniture-e-commerce-website-lime.vercel.app/)
+
+
 # Woodex - Furniture eCommerce Website
 
 Woodex is a responsive eCommerce website template designed for showcasing and selling furniture products. It features a modern and clean design with sections for hero products, about, popular products with filtering, blog, newsletter subscription, and contact information.
